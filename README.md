@@ -1,4 +1,3 @@
-```md
 <h1 align="center">Hi, I'm Emir 👋</h1>
 
 <h3 align="center">
@@ -13,23 +12,26 @@ Product-Oriented Full Stack Engineer building scalable SaaS systems, AI-powered 
 
 ## About Me
 
-- 🚀 Building scalable SaaS and AI-powered products
-- 🧠 Interested in AI, automation and product engineering
-- 📱 Developing cross-platform mobile applications with React Native
-- ⚙️ Building multi-tenant systems with modern backend architectures
-- 🎯 Focused on real-world business problems and production-ready systems
+* 🚀 Building scalable SaaS and AI-powered products
+* 🧠 Interested in AI, automation and product engineering
+* 📱 Developing cross-platform mobile applications with React Native
+* ⚙️ Building multi-tenant systems with modern backend architectures
+* 🎯 Focused on real-world business problems and production-ready systems
 
 ---
 
 ## Current Projects
 
 ### Algonel
+
 Multi-tenant stock & sales management SaaS platform built with Next.js, Supabase and React Native.
 
 ### Covera
+
 Insurance management and CRM platform focused on agency workflows and policy tracking.
 
 ### Daily Commit Tracker
+
 Mobile application that helps developers track and protect their GitHub streaks.
 
 ---
@@ -37,25 +39,29 @@ Mobile application that helps developers track and protect their GitHub streaks.
 ## Tech Stack
 
 ### Frontend
-![React](https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react)
-![Next JS](https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=nextdotjs)
-![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-111827?style=for-the-badge&logo=tailwindcss)
-![React Native](https://img.shields.io/badge/React%20Native-111827?style=for-the-badge&logo=react)
+
+![React](https://img.shields.io/badge/React-111827?style=for-the-badge\&logo=react)
+![Next JS](https://img.shields.io/badge/Next.js-111827?style=for-the-badge\&logo=nextdotjs)
+![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=for-the-badge\&logo=typescript)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-111827?style=for-the-badge\&logo=tailwindcss)
+![React Native](https://img.shields.io/badge/React%20Native-111827?style=for-the-badge\&logo=react)
 
 ### Backend
-![NodeJS](https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=node.js)
-![FastAPI](https://img.shields.io/badge/FastAPI-111827?style=for-the-badge&logo=fastapi)
-![Supabase](https://img.shields.io/badge/Supabase-111827?style=for-the-badge&logo=supabase)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111827?style=for-the-badge&logo=postgresql)
-![MongoDB](https://img.shields.io/badge/MongoDB-111827?style=for-the-badge&logo=mongodb)
+
+![NodeJS](https://img.shields.io/badge/Node.js-111827?style=for-the-badge\&logo=node.js)
+![FastAPI](https://img.shields.io/badge/FastAPI-111827?style=for-the-badge\&logo=fastapi)
+![Supabase](https://img.shields.io/badge/Supabase-111827?style=for-the-badge\&logo=supabase)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111827?style=for-the-badge\&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/MongoDB-111827?style=for-the-badge\&logo=mongodb)
 
 ### AI / Automation
-![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python)
-![OpenAI](https://img.shields.io/badge/OpenAI-111827?style=for-the-badge&logo=openai)
+
+![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge\&logo=python)
+![OpenAI](https://img.shields.io/badge/OpenAI-111827?style=for-the-badge\&logo=openai)
 
 ### Graphics / 3D
-![Three.js](https://img.shields.io/badge/Three.js-111827?style=for-the-badge&logo=threedotjs)
+
+![Three.js](https://img.shields.io/badge/Three.js-111827?style=for-the-badge\&logo=threedotjs)
 ![WebGL](https://img.shields.io/badge/WebGL-111827?style=for-the-badge)
 
 ---
@@ -72,7 +78,7 @@ Mobile application that helps developers track and protect their GitHub streaks.
 
 ## Activity Graph
 
-[![Emir's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=j4ckcaver&theme=tokyo-night&hide_border=true)](https://github.com/j4ckcaver)
+[![Emir's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=j4ckcaver\&theme=tokyo-night\&hide_border=true)](https://github.com/j4ckcaver)
 
 ---
 
@@ -93,4 +99,3 @@ Mobile application that helps developers track and protect their GitHub streaks.
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=j4ckcaver&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
-```
