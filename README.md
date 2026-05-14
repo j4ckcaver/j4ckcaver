@@ -69,10 +69,12 @@ Mobile application that helps developers track and protect their GitHub streaks.
 ## GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=j4ckcaver&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=j4ckcaver&theme=tokyonight" />
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=j4ckcaver&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=j4ckcaver&theme=tokyonight" />
 </p>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=j4ckcaver&theme=tokyonight" />
 
 ---
 
