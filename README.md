@@ -47,6 +47,9 @@ AI         Python · OpenAI API · automation pipelines
 
 [![Profile details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=j4ckcaver&theme=transparent)](https://github.com/j4ckcaver)
 
+
+[![](https://github.com/j4ckcaver/j4ckcaver/raw/master/profile-3d-contrib/profile-3d-contrib.svg)](https://github.com/j4ckcaver)
+
 ---
 
 ### Find me
@@ -54,3 +57,5 @@ AI         Python · OpenAI API · automation pipelines
 [Portfolio](https://emircanonel.vercel.app) · [LinkedIn](https://linkedin.com/in/emircanonel)
 
 <img src="https://komarev.com/ghpvc/?username=j4ckcaver&color=0e75b6&style=flat&label=views" />
+
+
