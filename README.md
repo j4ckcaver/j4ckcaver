@@ -56,7 +56,7 @@ Currently working on **Algonel** (multi-tenant stock & sales management SaaS) an
 
 [![Profile details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=j4ckcaver&theme=transparent)](https://github.com/j4ckcaver)
 
-[![](https://github.com/j4ckcaver/j4ckcaver/raw/master/profile-3d-contrib/profile-3d-contrib.svg)](https://github.com/j4ckcaver)
+[![](https://raw.githubusercontent.com/j4ckcaver/j4ckcaver/main/profile-3d-contrib/profile-night-rainbow.svg)](https://github.com/j4ckcaver)
 
 ---
 
