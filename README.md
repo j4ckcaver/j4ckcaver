@@ -47,12 +47,9 @@ Currently working on **Algonel** (multi-tenant stock & sales management SaaS) an
 
 ### Stats
 
-[![Streak](https://github-readme-streak-stats.herokuapp.com/?user=j4ckcaver&hide_border=true&theme=transparent)](https://github.com/j4ckcaver)
+[![Streak](https://streak-stats.demolab.com?user=j4ckcaver&hide_border=true&theme=transparent)](https://github.com/j4ckcaver)
 
-<p>
-  <img height="160" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=j4ckcaver&theme=transparent" />
-  <img height="160" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=j4ckcaver&theme=transparent&utcOffset=3" />
-</p>
+<img height="160" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=j4ckcaver&theme=transparent" />&nbsp;<img height="160" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=j4ckcaver&theme=transparent&utcOffset=3" />
 
 [![Profile details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=j4ckcaver&theme=transparent)](https://github.com/j4ckcaver)
 
